@@ -10,6 +10,6 @@ To run, you can use:
 
     npm start
 
---
+---
 
 For GIT related information, please read instructions at [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/).
