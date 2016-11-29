@@ -9,3 +9,4 @@ I believe every CSS developer can have own taste of writing it besides some stan
 #### HTML
 - Dashes (`-`) instead of `TitleCase` or `camelCase`.
 - Separate class names by group with pipe (`class="products | flexible row | size-h4"`).
+- Use specific tags for all HTML elements (`article`, `aside`, `nav`, `main` etc) and you will not have to describe them by class names.

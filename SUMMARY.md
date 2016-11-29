@@ -31,6 +31,8 @@
        * [Reset](reset.md)
        * [Body](body.md)
        * [Units](unit.md)
+   * [Time](time.md)
+       * [Transition](transition.md)
    * [Colors](colors.md)
        * [Configure](conf_colors.md)
        * [Brand colors](brand_colors.md)
