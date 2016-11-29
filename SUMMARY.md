@@ -1,18 +1,18 @@
 # Summary
 
 * [Introduction](README.md)
-   * Why
+   * [Features](features.md)
    * [History](history.md)
-   * Demos and examples
+   * [Demos and examples](demos_and_examples.md)
    * [Visualization](visualization.md)
    * [Preprocessors](preprocessors.md)
-   * CSSNext
-   * Other methodologies
-   * Who uses
+   * [CSSNext](cssnext.md)
+   * [Other methodologies](other_methodologies.md)
+   * [Who uses](who_uses.md)
    * [Authors](authors.md)
    * [License](license.md)
    * [Contribution](contribution.md)
-* Basics
+* [Basics](basics.md)
    * [Setup](setup.md)
    * [Naming](naming.md)
    * Property grouping
