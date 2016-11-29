@@ -7,4 +7,5 @@ I believe every CSS developer can have own taste of writing it besides some stan
 - Full names (`header-shadow`) instead of abbreviations or any shorten names (`head-shad`).
 
 #### HTML
-- Separate class names by group in HTML with pipe (```class="products | flexible row padding-big"```).
+- Separate class names by group with pipe (`class="products | flexible row padding-big"`).
+- Use specific tags for all HTML elements (`article`, `aside`, `nav`, `main` etc).

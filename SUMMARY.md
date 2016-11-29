@@ -15,17 +15,30 @@
 * [Basics](basics.md)
    * [Setup](setup.md)
    * [Naming](naming.md)
-   * Property grouping
-   * File structure
-   * Variables
-   * Reset
-   * Rules
-* Sequence
-   * Golden ratio
-   * Other sequences
-   * Configuring sequence
-* Typography
-   * Configuration
-* Advanced
-   * Your own component
+   * [Property grouping](property_grouping.md)
+   * [File structure](file_structure.md)
+   * [Variables](variables.md)
+   * [Rules](rules.md)
+* [Document and layout](layout.md)
+   * [Reset](reset.md)
+   * [Body](body.md)
+   * [Gutter](gutter.md)
+   * [Responsive](responsive.md)
+   * [Unit](unit.md)
+* [Sequence](sequence.md)
+   * [Golden ratio](golden_ratio.md)
+   * [Other sequences](other_sequences.md)
+   * [Configuring sequence](configuring_sequence.md)
+* [Typography](typography.md)
+   * [Font](font.md)
+   * [Configure](conf_typography.md)
+   * [Headings](headings.md)
+   * [Body sizes](body_sizes.md)
+   * [Link and paragraph](link_and_paragraph.md)
+* [Colors](colors.md)
+   * [Configure](conf_colors.md)
+* [Advanced](advanced.md)
+   * [Your own component](your_own_component.md)
+   * [Edit something in Scratch](edit_something_in_scratch.md)
+   * [Multi-device configuration](make_multi-device_configuration.md)
 
