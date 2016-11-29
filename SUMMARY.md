@@ -18,7 +18,6 @@
        * [Who uses](who_uses.md)
        * [Authors](authors.md)
        * [Contribution](contribution.md)
-       * asdasads
    * [License](license.md)
 * [Basics](basics.md)
    * [Setup](setup.md)
