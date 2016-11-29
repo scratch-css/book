@@ -13,6 +13,8 @@ Using Scratch requires to follow some rules to get good result. I give you todoe
 - Never nest classes more then 3 levels - see [Performance](performance.html).
 - Never use universal selector `*` - see [Performance](performance.html).
 - Try to avoid attribute selectors and pseudo classes - see [Performance](performance.html).
+- Move to variables if you use it more than once - see [Variables](variables.html).
+- Check [Scratch quick reference](https://github.com/scratch-css/quick-reference) before you add something new (use `ctrl`/`cmd` + `F` to find them quickly).
 
 #### HTML
 - You can have modifier as a separate class name. No need extra characters to use (`button big primary` instead of `button-primary-big` or `contact--button__red`).
