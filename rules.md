@@ -12,4 +12,5 @@
 
 #### HTML
 - You can have modifier as a separate class name. No need extra characters to use (`button big primary` instead of `button-primary-big` or `contact--button__red`).
+- Use specific tags for all HTML elements (`article`, `aside`, `nav`, `main` etc).
 
