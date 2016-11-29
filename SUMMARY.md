@@ -62,6 +62,7 @@
    * [UI](ui.md)
    * [Helpers](helpers.md)
    * [Animations](animations.md)
+* [Templates](templates.md)
 * [Bonus](bonus.md)
    * [More about reusability](more_about_reusability.md)
    * [Review and comparison of todays framework](review_and_comparison_of_todays_framework.md)
