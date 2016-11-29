@@ -1,11 +1,17 @@
 ### Setup 
 
-To run a project, you probably need [Node.js](https://nodejs.org/en/download/) and [NPM](https://docs.npmjs.com/cli/install) installed.
+To add Scratch in your dependencies list, run:
 
-To install dependencies you need to run:
+    npm install @scratch-css/scratch --save
+    
+You need to import it in your CSS file afterwards:
+  
+    @import '@scratch-css/scratch';
+    
+Or import from `node_modules` path:
 
-    npm i webpack webpack-dev-server -g && npm i
+    @import './node_modules/@scratch-css/scratch/index.css';
+    
+Try to add this snippet in your CSS just to check if it works:
 
-To run, you can use:
-
-    npm start
+    body { background-color: var(--primary) !important; }
