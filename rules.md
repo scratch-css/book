@@ -1,14 +1,13 @@
 ### Rules
 
 #### CSS
-- Never ever hardcode any value in given properties:
-  - font-size - see [Typography](typography.html)
-  - font-weight - see [Typography](typography.html)
-  - font-style - see [Typography](typography.html)
-  - padding - see [Gutters](gutter.html)
-  - margin - see [Gutters](gutter.html)
-  - color - see [Colors](colors.html)
-  - background-color - see [Colors](colors.html)
+
+- Never hardcode these values and properties:
+  - Hex or rgb(a) colors. see [Colors](colors.html).
+  - Any unit in any value. see [Units](units.html).
+  - Font weight or style - see [Typography](typography.html).
+  - Paddings and margins - see [Gutters](gutter.html).
+  - Durations in time - see [Gutters](gutter.html).
 
 #### HTML
 - You can have modifier as a separate class name. No need extra characters to use (`button big primary` instead of `button-primary-big` or `contact--button__red`).
