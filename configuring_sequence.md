@@ -1,4 +1,4 @@
-# Configuring sequence
+## Configuring sequence
 
 There are many properties in CSS which can use our sequence system. By default, in Scratch, we have sequences representing:
 
