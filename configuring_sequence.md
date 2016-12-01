@@ -1,4 +1,4 @@
-### Configuring sequence
+# Configuring sequence
 
 There are many properties in CSS which can use our sequence system. By default, in Scratch, we have sequences representing:
 
@@ -20,3 +20,7 @@ So, we want new value for headings sequence. Let's choose `--major-third` consta
 Now we have new headings sequence value, which will automatically affect all your headings in your HTML, because they are set in the same file, which, in the end are used in our [reset.css](https://github.com/scratch-css/scratch/blob/master/lib/config/typography/headings.css#L19).
 
 This was just an example about how to use sequences in your Scratch project. For more reading about specifically headings, you can see [Headings](headings.html) section.
+
+
+### Next step
+Read more about [how to make layouts](layout.html) with sequences in the Scratch system.

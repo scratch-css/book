@@ -1,4 +1,4 @@
-### Golden ratio
+## Golden ratio
 
 Golden Ratio is widely used in web, graphic and logo design worldwide. I think referencing this amazing blog posts will say much more, then I can do in here.
 
@@ -9,3 +9,6 @@ Golden Ratio is widely used in web, graphic and logo design worldwide. I think r
 - [The designer's guide to the Golden Ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546) - Creative Bloq
 - [Applying Divine Proportion To Your Web Designs](https://www.smashingmagazine.com/2008/05/applying-divine-proportion-to-web-design/) - Smashing Magazine
 - [Applying the Golden Ratio in Modern Designs](http://www.hongkiat.com/blog/golden-ratio-in-moden-designs/) - Hongkiat
+
+### Next step
+Read more about [other constants](other_constants).

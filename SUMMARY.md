@@ -40,7 +40,7 @@
        * [Social network colors](social_network_colors.md)
    * [Sequence](sequence.md)
        * [Golden ratio](golden_ratio.md)
-       * [Other sequences](other_sequences.md)
+       * [Other constants](other_constants.md)
        * [Configuring sequence](configuring_sequence.md)
    * [Layout](layout.md)
        * [Gutter](gutter.md)
