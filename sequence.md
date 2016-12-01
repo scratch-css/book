@@ -28,3 +28,5 @@ Referenced from [type-scale.com](http://type-scale.com/), we have those constant
 - `golden-ratio` -  `1.618`
 
 We can set different sequences for different properties, like `golden-ratio` for `gutters` (see [Gutters](gutters.html)), `major-third` for `headings` (like `h1`, `h2` etc - see [Headings](headings.html)) and so on.
+
+In large scale, this feature gives us possibility to easily manage font-sizes, transitions and others by only changing default sequence size and default value. We can also manage it for different devices, like if `headings-sequence` is `major-third`, `headings-sequence-phone` can be `major-second`, so we'll get smaller steps. This gives us possibility to automate the whole process, and avoid custom management for each component in each media query.
