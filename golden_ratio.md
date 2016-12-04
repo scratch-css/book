@@ -10,5 +10,6 @@ Golden Ratio is widely used in web, graphic and logo design worldwide. I think r
 - [Applying Divine Proportion To Your Web Designs](https://www.smashingmagazine.com/2008/05/applying-divine-proportion-to-web-design/) - Smashing Magazine
 - [Applying the Golden Ratio in Modern Designs](http://www.hongkiat.com/blog/golden-ratio-in-moden-designs/) - Hongkiat
 
+
 ### Next step
 Read more about [other constants](other_constants).

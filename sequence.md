@@ -31,6 +31,7 @@ We can use different sequences for different properties, like `golden-ratio` for
 
 In large scale, this feature gives us possibility to easily manage font-sizes, transitions and others by only changing sequence size and default value. We can also manage it for different devices, like if `headings-sequence` is `major-third`, `headings-sequence-phone` can be `major-second`, so we'll get smaller steps for phone view. This gives us possibility to automate whole process, and avoid custom management for each component in each media query.
 
+
 ### Sub chapters
 - [Golden ratio](golden_ratio.html)
 - [Other sequences](other_sequences.html)
