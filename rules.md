@@ -15,7 +15,7 @@ Using Scratch requires to follow some rules to get good result. I give you todoe
 * Try to avoid attribute selectors and pseudo classes - see [Performance](performance.html).
 * Move to variables if you use it more than once - see [Variables](variables.html).
 * Check [Scratch quick reference](https://github.com/scratch-css/quick-reference) before you add something new \(use `ctrl`/`cmd` + `F` to find them quickly\).
-* Again, never be specific in naming. Don't use left and right. Use start, end. You may need to add rtl layout later, which will swap your left named thing to right, and you'll get incorrect names.
+* Again, never be specific in naming. Don't use \`left\` and \`right\`. Use \`start\` and \`end\`. You may need to add rtl layout later, which will swap your left named thing to right, and you'll get incorrect names.
 
 #### HTML
 
